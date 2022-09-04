@@ -1,0 +1,15 @@
+current directory: /Users/masahiroamemiya/techpitgram/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/masahiroamemiya/.rbenv/versions/3.0.0/bin/ruby -I /Users/masahiroamemiya/.rbenv/versions/3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/masahiroamemiya/techpitgram/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20220904-58290-gdp4ei sitelibdir\=./.gem.20220904-58290-gdp4ei clean
+
+current directory: /Users/masahiroamemiya/techpitgram/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20220904-58290-gdp4ei sitelibdir\=./.gem.20220904-58290-gdp4ei
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/masahiroamemiya/techpitgram/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20220904-58290-gdp4ei sitelibdir\=./.gem.20220904-58290-gdp4ei install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20220904-58290-gdp4ei
